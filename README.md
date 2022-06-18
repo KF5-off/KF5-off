@@ -4,7 +4,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=KF5-off&show_icons=true&count_private=true" />
 
 ## 👀  Visitors
-<img align="center" src="[https://github-readme-stats.vercel.app/api/?username=KF5-off&show_icons=true&count_private=true](https://profile-counter.glitch.me/KF5135/count.svg)" />
+<img src="https://profile-counter.glitch.me/KF5135/count.svg" />
 
 <!--
 **KF5-off/KF5-off** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
