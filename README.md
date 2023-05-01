@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 ```mermaid
   graph TD;
-      Code-->🧠;
-      Foot-->🏐;
-      Eat-->⚽;
+      Code-->⚽;
+      ⚽-->Eat;
+      Eat-->Code-2;
       Code-2-->Sleep;
       Sleep-->Code;
 ```
