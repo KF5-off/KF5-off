@@ -6,6 +6,15 @@
 ## 👀  Visitors
 <img src="https://profile-counter.glitch.me/KF5135/count.svg" />
 
+## 👀  Visitors
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 <!--
 **KF5-off/KF5-off** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,12 +30,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-```mermaid
-  graph TD;
-      Code-->⚽;
-      ⚽-->Eat;
-      Eat-->Code-2;
-      Code-2-->Sleep;
-      Sleep-->Code;
-```
