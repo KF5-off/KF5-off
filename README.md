@@ -20,3 +20,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+```mermaid
+  graph TD;
+      Code-->Foot;
+      Foot-->Eat;
+      Eat-->Code-2;
+      Code-2-->Sleep;
+      Sleep-->Code;
+```
