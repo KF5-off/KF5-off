@@ -6,7 +6,7 @@
 ## 👀  Visitors
 <img src="https://profile-counter.glitch.me/KF5135/count.svg" />
 
-## 👀  Visitors
+## 🧠  My routine
 ```mermaid
 graph TD;
     A-->B;
